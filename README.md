@@ -1,14 +1,12 @@
 # Weather Condition Classification using Support Vector Machine (SVM) and Open-Meteo API
 
-**Author:** Akshat Garg  
+**Author:** ARIGHNA GUPTA
 
-**Registration Number:** 23BCE10641 
+**Registration Number:** 23BCY10207
 
-**Application Number:** IN26011052
+**Batch Number:** 5A
 
-**Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
 
 ## Objective
 The objective of this project is to build an SVM classification model using an RBF kernel to accurately classify weather conditions as 'Warm' ($\ge 25^\circ\text{C}$) or 'Cool' ($< 25^\circ\text{C}$) based on hourly meteorological features fetched live from the Open-Meteo API.
